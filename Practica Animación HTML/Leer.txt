@@ -1,0 +1,1 @@
+Corralo en visual studio Code para poder correrlo de forma correcta ya que la imagen y los gifs no cargan en replit aunque los suba y les cambie las rutas
